@@ -22,7 +22,7 @@ function populateFields() {
       jQ(".username").val(userName);
       checkForDashesInUserId();
 }
-
+//Test
 
 function readCookie(name) {
       var nameEQ = name + "=";
