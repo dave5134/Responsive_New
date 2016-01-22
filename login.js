@@ -1,7 +1,8 @@
 var jQ = jQuery; //.noConflict();
-
+ 
 jQ(document).ready(function() {
 	setupLogin();
+	//Hello
 });
 
 function setupLogin() {
